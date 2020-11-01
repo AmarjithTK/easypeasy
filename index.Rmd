@@ -42,7 +42,7 @@ Feel free to start translating (they'll be a video guide on how to soon) but you
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
-<!---[RU 🇷🇺](ru/index.html) --->
+<!--[RU 🇷🇺](ru/index.html) -->
 
 <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 
