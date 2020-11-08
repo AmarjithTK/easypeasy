@@ -36,15 +36,11 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 # Preface {-}
 
-**EasyPeasy v2 beta** - Now featuring an easily pronounceable domain name. Still a couple of things to polish, but this should be very close to final. Please [provide feedback here](https://boards.coomer.org/easy/res/1.html) and submit your [changes through Gitlab](https://gitlab.com/snuggy/easypeasy/) (create an account, fork repository and use web IDE)
-
-Feel free to start translating (they'll be a video guide on how to soon) but you can find basic instructions in the Git repository.
-
-![Cover Image](images/easypeasy.jpg){width=45% height=45%}
-
 <!--[RU 🇷🇺](ru/index.html) -->
 
 <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+
+***Painlessly quit porn immediately, without willpower or any sense of deprivation or sacrifice.***
 
 This is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy) adapting *Allen Carr's EasyWay to Stop Smoking* for pornography. It's also **completely free** and [open source](https://gitlab.com/snuggy/easypeasy). I'm not the original author of either of these books, I'm the Hackauthor².
 
