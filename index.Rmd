@@ -26,7 +26,7 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-url: 'https\://easypeasybook.org/'
+url: 'https\://easypeasymethod.org/'
 cover-image: "images/easypeasy.jpg"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
@@ -40,7 +40,7 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 <!--[RU 🇷🇺](ru/index.html) -->
 
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
 
 ***Painlessly quit porn immediately, without willpower or any sense of deprivation or sacrifice.***
 
@@ -48,7 +48,7 @@ This is a rewritten version of a [rewrite](https://sites.google.com/site/hackboo
 
 It's very effective, but critical to your success requires that you:
 
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
 
 When opening a combination lock, you have to enter the numbers in the right order. Addiction isn't any different.
 
