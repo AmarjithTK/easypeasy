@@ -36,6 +36,8 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 # Preface {-}
 
+![Cover Image](images/easypeasy.jpg){width=45% height=45%}
+
 <!--[RU 🇷🇺](ru/index.html) -->
 
 <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
