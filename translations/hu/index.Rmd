@@ -1,5 +1,5 @@
 --- 
-title: "EasyPeasy"
+title: "A Járható Út"
 author: "Hackauthor²"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -31,7 +31,8 @@ cover-image: "images/easypeasy.jpg"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
-description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
+description: "Szabadulj meg a pornófüggőségtől azonnal, akaraterő, vagy áldozathozatal érzése nélkül."
+
 ---
 
 # Preface {-}
@@ -39,86 +40,96 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
 <!--[RU 🇷🇺](ru/index.html) -->
-[Audiobook (new!)](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
+[Az eredeti könyv audió formátumban](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
-<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
+<span style="font-size:xx-large;">**NE UGORJ ÁT EGY FEJEZETET SE! **</span>
 
-***Painlessly quit porn immediately, without willpower or any sense of deprivation or sacrifice.***
+***Szabadulj meg a pornófüggőségtől azonnal és fájdalommentesen, akaraterő, vagy áldozathozatal érzése nélkül.***
 
-This is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy) adapting *Allen Carr's EasyWay to Stop Smoking* for pornography. It's also **completely free** and [open source](https://gitlab.com/snuggy/easypeasy). I'm not the original author of either of these books, I'm the Hackauthor².
 
-It's very effective, but critical to your success requires that you:
+Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!”* című könyv pornófüggőségre [átírt változatának](https://sites.google.com/site/hackbookeasypeasy) egy többszörösen átírt változata. A szöveg ezen felül **teljesen ingyenes** és [nyílt forráskódú](https://gitlab.com/jarhatout/easypeasy/-/tree/master/translations/hu). Egyik könyvnek se én vagyok a szerzője, én a Hackauthorš[^1] vagyok
+[^1]:“Hack-szerző” 
+ 
 
-<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
+Ez a könyv hatékony, de ahhoz hogy működjön is, feltétel hogy
 
-When opening a combination lock, you have to enter the numbers in the right order. Addiction isn't any different.
 
-Personally, the [original Google Sites version](https://sites.google.com/site/hackbookeasypeasy) (that wasn't written by me) changed my life. If you're anything like most people, you discovered porn when relatively young and have used it ever since. Until stumbling across the overwhelming -- yet somewhat censored -- literature warning of the dangers. Like myself, you've probably succeeded with streaks of various lengths, but have always eventually succumbed to illusory urges. I'm pleased to report this method works entirely differently, and has been the only method that has worked.
+<span style="font-size:xx-large;">**NE UGORJ ÁT EGY FEJEZETET SE! **</span>
 
-Or perhaps, you've been linked this book by a concerned party and are skeptical. Firstly, thank you for at least looking at it. This will be expanded upon shortly, but please briefly recall the first time you looked at pornography. Did you expect that you'd return to it for the rest of your life? According to my own informal studies on the matter (pestering friends to read this book), EasyPeasy is equally as effective for the casual porn user as it is for the heavily addicted. It's not terribly long, with high chances of large gains, so I beg you to continue reading.
+Egy számzáras lakat csak úgy nyitható ki, ha a számok a megfelelő sorrendben vannak. A függőség is ugyanilyen.
 
-The method described in this hackbook is:
+Személy szerint, az [eredeti Google Site-os verzió](https://sites.google.com/site/hackbookeasypeasy) (melyet nem én írtam) megváltoztatta az életemet. A legtöbb emberhez hasonlóan te is egészen fiatal korodban találkoztál először a pornóval, és azóta is használtad. Egészen addig, amíg nem futottál bele a lehengerlő mennyiségű, de valahogy mégis cenzúrázott írásba, amely a veszélyeire figyelmeztet. Hozzám hasonlóan te is valószínűleg sikerrel végigvittél pár napos szériákat, amíg tartózkodtál, de előbb-utóbb mindig beadtad a derekad a képzelt ingereknek. Örömmel jelentem, hogy ez a módszer teljesen máshogy működik, és ez az egyetlen módszer, ami valaha is működött.
 
--   Instantaneous.
+Az is előfordulhat, hogy valaki aggodalomból irányított át ide, és emiatt szkeptikus vagy. Először is, köszönöm hogy legalább beleolvastál a könyvbe. Ez később bővebben is ki lesz fejtve, de kérlek idézd fel az első alkalmat, amikor pornográf tartalmat néztél. Arra számítottál akkor, hogy az életed végéig vissza fogsz rá térni? A személyes, nem hivatalos kutatásaim alapján (addig rágtam a barátaim fülét, amíg el nem olvasták a könyvet), a Járható Út a súlyos és az alkalmi pornó használónak is ugyanolyan hatékony. A könyv nem borzalmasan hosszú, és hatalmas eséllyel nyerhetsz hatalmasat, tehát kérlek olvass tovább. 
 
--   Equally as effective for the heavy and casual user alike.
+Az ebben a hack-könyvben leírt módszer
 
--   Causes no bad withdrawal pangs.
+-   Azonnal hat.
 
--   Needs no willpower.
+-   Mind a súlyos, mind az alkalmi használóknak ugyanolyan hatékony.
 
--   Requires no shock treatment, aids, or gimmicks.
+-   Nem okoz elvonási kattogást.
 
--   Won't cause you to replace this addiction with other addictions, such as overeating, smoking or drinking.
+-   Nem igényel akaraterőt.
 
--   Permanent.
+-   Nem igényel sokkterápiát, kisegítő megoldásokat.
 
-You might find this impossible to believe, but this sentiment is echoed by many people.
+-   Nem helyettesíti ezt a függőséget más függőségekkel.
 
-> *"This is the seminal work on porn addiction"*
->
-> --- Some guy on reddit I can't find, don't think the pun was intentional.
+-   Végleges.
+  
+Lehet nehéz lesz elhinni, de igen sokan hangoztatják ezt a véleményt.
 
-> "*I was addicted for 10 years. Those 10 years I was crippled with depression, doubt, anxiety, and fear of my secret getting out. After every session, I hated myself, and after every porn diet I was back down the water slide in no time. However, this book helped me stop. I was always on the defensive against porn in the past. Now, after reading this book twice, I am on the offensive. Porn has no control over me and feels like a sad joke now.*"
+> *"Ez a legfontosabb[^2] írás a pornófüggőséggel kapcsolatban"*
+>[^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
+> --- valaki a Redditről
+
+
+> "*Tíz évig függő voltam. Ezen 10 év alatt depresszió, kételyek, meg szorongás gyötört, és rettegtem, hogy kiderül a titkom. Minden alkalom után gyűlöltem magam, és minden pornó-diéta után ismét lecsúsztam a lejtőn. Azonban ez a könyv segített leszokni. Korábban a pornó ellen mindig defenzívában voltam. Most hogy kétszer elolvastam, én vagyok offenzívában. A pornónak nincs már felettem hatalma, és az egész már csak egy szomorú viccnek érződik.*"
 >
 > --- u/DeepNewt
 
-> "*A few days ago, I turned 20 years old. For the first time in a very long time, I spent my birthday free from the porn trap, and it's all thanks to this book that I haphazardly stumbled upon only a few months ago. Before that, I had spent so much time trying to quit through traditional means, and I experienced so much inner turmoil and labeled myself permanently as an addict. The book solved all that for me. Where I previously feared I had no control over myself even when I'd unknowingly already beaten the little monster, I can now find pride in realising I don't need to be an addict anymore.*
->
-> *I don't really have a reason for posting this, I just felt like I needed put this down somewhere other than inside my head because it means so much to me. If you're reading this and are thinking about reading or recommending the book, take it from me that it works better than any other method out there. My biggest tip is to take notes, which sounds funny, but it really helped me solidify certain ideas.*"
+> "*Pár napja töltöttem be a huszadik évemet. Sok éve először a pornócsapdán kívül töltöttem a születésnapomat, ami ennek a könyvnek köszönhető, amibe oár hónapja véletlenül futottam bele. Azelőtt rengeteg időt töltöttem azzal hogya  hagyományos módszerekkel próbáltam leszokni, és hatalmas belső válságot éltem meg, és örök függőnek bélyegeztem meg magam. A könyv mindezt megoldotta. Ahol korábban féltem attól, hogy nincs önuralmam, még akkkor is hogyha addigra már legyőztem a kicsi szörnyet, 
+bár nem tudtam róla. , most büszkeség tölt el, hogy már nem kell függőnek lennem.*
+
+>*Nincs különösebb okom arra, hogy ezt posztoljam, csak úgy érzetem hogy ezt valahová le kellet írnom az agyamon kívül, mert ez nekem nagyon sokat jelent. Ha ezt olvasod, és azon gondolkodsz, hogy elolvasod vagy ajánlod ezt a könyvet, nekem elhiheted hogy ez a módszer minden másnál jobban működik. A legjobb tippem az, hogy jegyzetelj, ami hülyén hangzik, de nekem segített megszilárdítani bizonyos gondolatokat.*"
 >
 > --- u/Suspicious_Web_4594
 
-> "*based*"
->
+> "*Megalapozott[^3]*"
+>[^3]:Itt eredetileg a “based” kifejezés szerepelt, ami nagyjából úgy fordítható le, hogy valami ami a trendekkel szembemenve az igazságot mondja.
 > --- anon, /fit/
 
-Allen Carr is a top bloke with an exceedingly interesting life: a hundred-a-day chain smoker for over thirty years, Carr stopped immediately after discovering *EasyWay*, and as quoted from his book, this "*enabled him to follow an overwhelming desire to explain his method to as many smokers as possible.*" His methods for alcohol, other drugs, and many other addictions remain global bestsellers and I'd encourage you to check them out.
+Allen Carr egy király csávó volt, rendkívül érdekes élettel: napjában száz szálat szívott el, több mint harminc éven át, de azonnal felhagyott vele, amint felfedezte a járható utat, ami a könyvéből idézve “*lehetővé tette hogy vágyát követve, minél több dohányosnak elmagyarázza a módszerét*”. Az alkoholról, egyéb drogokról, és mindenféle más függőségekről szóló könyvei a mai napig bestsellerek, ajánlom hogy nézd meg őket.
 
-His body of work deals with dispelling fear caused by misconceptions and confusion regarding biological processes and quitting. Therefore a majority of the book is spent logically deconstructing anxieties and phobias associated with quitting that generally lead to the downfall of many who attempt and fail. Carr's clinics have success rates of over ninety-five percent, with money-back guarantees. More importantly, they've allowed their patients to go on to live fulfilling lives free of their addictions.
+Allen munkáiban a leszokással, és a biológiai folyamatokkal kapcsolatos félelmet és zavarodottságot szünteti meg, ezért a könyv nagy része a leszokással asszociált félelmek logikus lebontásából fog állni, mely félelmek a leállási próbálkozások sikertelenségében végződnek. A Carr-féle klinikák több mint 95 százalékos sikerességi aránnyal működnek, pénzvisszafizetési garanciával. Ami még fontosabb, felszabadították a pácienseket a függőségük kínzó igájából.
 
-Why the hackbook? Because Allen Carr has long since passed away and the institutions he's formed don't list internet pornography as one of the addictions they provide treatment for. I don't gain monetarily or otherwise.
+Minek a hack-könyv? Mert Allen Carr már sok ideje elhunyt, és az általa alapított intézmények nem sorolják fel az internetes pornót az általuk kezelt függőségek listáján. A könyvből semmiféle anyagi nyereségem nem származik.
 
-<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span> 
+<span style="font-size:smaller;">**Hack-könyv:** egy meglévő könyv átírt, és úgymond meghackelt verziója. Az eredeti szerző fel van tüntetve.</span> 
 
-Throughout this book, myself, the original Hackauthor, and Allen Carr will appear transparently in order to provide you with a unique and compelling method to easily and painlessly quit.
+A Hack-könyv során végig, Allen Carr és jómagam könnyen felismerhető módon fogunk megjelenni, hogy egy hihető és egyedi módszerrel segítsünk a függőségtől megszabadulni.
 
-<span style="font-size:larger;">**Tips for reading:**</span>
+<span style="font-size:larger;">**Tippek az olvasáshoz:**</span>
 
-**Don't read this book like a normal book**, it's very short, and you should be able to finish it within a couple of hours. Most people benefit from *highlighting or taking notes*, and usually recommend **rereading** it a few times to fully solidify the lessons.
+**Ne úgy olvasd ezt a könyvet, mint egy normális könyvet**. Ez a könyv elég kurta, és néhány óra alatt könnyen befejezhető. Sokaknak segít ha *kiemelnek fontos részeket*, és ha *jegyzetelnek*, és mindemellett ajánlatos *többször elolvasni*, hogy az üzenet biztosan átjöjjön.
 
-A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
+Számos közösség létezik a könyvvel kapcsolatban, de csak érdemes megnézni őket, ha már elolvastad a könyvet.
+[Magyar nyelvű discord szerver:](https://discord.gg/D54n6E4A7D)
+[Magyar nyelvű NoFap ‘leányvállalat’](https://www.reddit.com/r/hunnofap/)  
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+A többi pedig angol nyelvű.
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (új!)](https://coomer.org) | [oldal statisztikák](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
 
-Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+Emlékeztető: <span style="font-size:larger;">**NE UGORJ ÁT EGY FEJEZETET SE! **</span>
 
-I'd wish you luck, but as you'll soon come to learn, you don't need it.
+Sok szerencsét kívánnék, de ahogy hamarosan meg fogod tudni hogy nincs is rá szükséged.
 
-Good vibes,
+Hajrá!
 
-Hackauthor²
+Hackauthor² és a Fordító
 
 ![Creative Commons License Image](images/cc.png){width=88 height=31}
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Code is [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
+Ez a könyv [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) licensz alatt áll. A kód  [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
+
