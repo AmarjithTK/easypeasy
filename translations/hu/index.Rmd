@@ -53,7 +53,6 @@ Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!�
 
 Ez a könyv hatékony, de ahhoz hogy működjön is, feltétel hogy
 
-
 <span style="font-size:xx-large;">**NE UGORJ ÁT EGY FEJEZETET SE! **</span>
 
 Egy számzáras lakat csak úgy nyitható ki, ha a számok a megfelelő sorrendben vannak. A függőség is ugyanilyen.
@@ -83,7 +82,6 @@ Lehet nehéz lesz elhinni, de igen sokan hangoztatják ezt a véleményt.
 > *"Ez a legfontosabb[^2] írás a pornófüggőséggel kapcsolatban"*
 >[^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
 > --- valaki a Redditről
-
 
 > "*Tíz évig függő voltam. Ezen 10 év alatt depresszió, kételyek, meg szorongás gyötört, és rettegtem, hogy kiderül a titkom. Minden alkalom után gyűlöltem magam, és minden pornó-diéta után ismét lecsúsztam a lejtőn. Azonban ez a könyv segített leszokni. Korábban a pornó ellen mindig defenzívában voltam. Most hogy kétszer elolvastam, én vagyok offenzívában. A pornónak nincs már felettem hatalma, és az egész már csak egy szomorú viccnek érződik.*"
 >
