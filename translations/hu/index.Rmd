@@ -1,0 +1,124 @@
+--- 
+title: "EasyPeasy"
+author: "Hackauthor²"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+      edit : https://gitlab.com/snuggy/easypeasy/%s
+    includes:
+      in_header: header.html
+    fig_caption: false
+  pdf_document:
+    includes:
+      in_header: preamble.tex
+      toc: true
+      number_sections: true
+      fig_caption: false
+      latex_engine: xelatex
+
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'https\://easypeasymethod.org/'
+cover-image: "images/easypeasy.jpg"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
+description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
+---
+
+# Preface {-}
+
+![Cover Image](images/easypeasy.jpg){width=45% height=45%}
+
+<!--[RU 🇷🇺](ru/index.html) -->
+[Audiobook (new!)](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
+
+<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
+
+***Painlessly quit porn immediately, without willpower or any sense of deprivation or sacrifice.***
+
+This is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy) adapting *Allen Carr's EasyWay to Stop Smoking* for pornography. It's also **completely free** and [open source](https://gitlab.com/snuggy/easypeasy). I'm not the original author of either of these books, I'm the Hackauthor².
+
+It's very effective, but critical to your success requires that you:
+
+<span style="font-size:xx-large;">**DO NOT JUMP CHAPTERS**</span>
+
+When opening a combination lock, you have to enter the numbers in the right order. Addiction isn't any different.
+
+Personally, the [original Google Sites version](https://sites.google.com/site/hackbookeasypeasy) (that wasn't written by me) changed my life. If you're anything like most people, you discovered porn when relatively young and have used it ever since. Until stumbling across the overwhelming -- yet somewhat censored -- literature warning of the dangers. Like myself, you've probably succeeded with streaks of various lengths, but have always eventually succumbed to illusory urges. I'm pleased to report this method works entirely differently, and has been the only method that has worked.
+
+Or perhaps, you've been linked this book by a concerned party and are skeptical. Firstly, thank you for at least looking at it. This will be expanded upon shortly, but please briefly recall the first time you looked at pornography. Did you expect that you'd return to it for the rest of your life? According to my own informal studies on the matter (pestering friends to read this book), EasyPeasy is equally as effective for the casual porn user as it is for the heavily addicted. It's not terribly long, with high chances of large gains, so I beg you to continue reading.
+
+The method described in this hackbook is:
+
+-   Instantaneous.
+
+-   Equally as effective for the heavy and casual user alike.
+
+-   Causes no bad withdrawal pangs.
+
+-   Needs no willpower.
+
+-   Requires no shock treatment, aids, or gimmicks.
+
+-   Won't cause you to replace this addiction with other addictions, such as overeating, smoking or drinking.
+
+-   Permanent.
+
+You might find this impossible to believe, but this sentiment is echoed by many people.
+
+> *"This is the seminal work on porn addiction"*
+>
+> --- Some guy on reddit I can't find, don't think the pun was intentional.
+
+> "*I was addicted for 10 years. Those 10 years I was crippled with depression, doubt, anxiety, and fear of my secret getting out. After every session, I hated myself, and after every porn diet I was back down the water slide in no time. However, this book helped me stop. I was always on the defensive against porn in the past. Now, after reading this book twice, I am on the offensive. Porn has no control over me and feels like a sad joke now.*"
+>
+> --- u/DeepNewt
+
+> "*A few days ago, I turned 20 years old. For the first time in a very long time, I spent my birthday free from the porn trap, and it's all thanks to this book that I haphazardly stumbled upon only a few months ago. Before that, I had spent so much time trying to quit through traditional means, and I experienced so much inner turmoil and labeled myself permanently as an addict. The book solved all that for me. Where I previously feared I had no control over myself even when I'd unknowingly already beaten the little monster, I can now find pride in realising I don't need to be an addict anymore.*
+>
+> *I don't really have a reason for posting this, I just felt like I needed put this down somewhere other than inside my head because it means so much to me. If you're reading this and are thinking about reading or recommending the book, take it from me that it works better than any other method out there. My biggest tip is to take notes, which sounds funny, but it really helped me solidify certain ideas.*"
+>
+> --- u/Suspicious_Web_4594
+
+> "*based*"
+>
+> --- anon, /fit/
+
+Allen Carr is a top bloke with an exceedingly interesting life: a hundred-a-day chain smoker for over thirty years, Carr stopped immediately after discovering *EasyWay*, and as quoted from his book, this "*enabled him to follow an overwhelming desire to explain his method to as many smokers as possible.*" His methods for alcohol, other drugs, and many other addictions remain global bestsellers and I'd encourage you to check them out.
+
+His body of work deals with dispelling fear caused by misconceptions and confusion regarding biological processes and quitting. Therefore a majority of the book is spent logically deconstructing anxieties and phobias associated with quitting that generally lead to the downfall of many who attempt and fail. Carr's clinics have success rates of over ninety-five percent, with money-back guarantees. More importantly, they've allowed their patients to go on to live fulfilling lives free of their addictions.
+
+Why the hackbook? Because Allen Carr has long since passed away and the institutions he's formed don't list internet pornography as one of the addictions they provide treatment for. I don't gain monetarily or otherwise.
+
+<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span> 
+
+Throughout this book, myself, the original Hackauthor, and Allen Carr will appear transparently in order to provide you with a unique and compelling method to easily and painlessly quit.
+
+<span style="font-size:larger;">**Tips for reading:**</span>
+
+**Don't read this book like a normal book**, it's very short, and you should be able to finish it within a couple of hours. Most people benefit from *highlighting or taking notes*, and usually recommend **rereading** it a few times to fully solidify the lessons.
+
+A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
+
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+
+Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+
+I'd wish you luck, but as you'll soon come to learn, you don't need it.
+
+Good vibes,
+
+Hackauthor²
+
+![Creative Commons License Image](images/cc.png){width=88 height=31}
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Code is [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
