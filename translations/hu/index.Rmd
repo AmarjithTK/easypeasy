@@ -48,7 +48,7 @@ description: "Szabadulj meg a pornófüggőségtől azonnal, akaraterő, vagy á
 
 
 Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!”* című könyv pornófüggőségre [átírt változatának](https://sites.google.com/site/hackbookeasypeasy) egy többszörösen átírt változata. A szöveg ezen felül **teljesen ingyenes** és [nyílt forráskódú](https://gitlab.com/jarhatout/easypeasy/-/tree/master/translations/hu). Egyik könyvnek se én vagyok a szerzője, én a Hackauthorš[^1] vagyok
-[^1]:“Hack-szerző” 
+
  
 
 Ez a könyv hatékony, de ahhoz hogy működjön is, feltétel hogy
@@ -80,7 +80,6 @@ Az ebben a hack-könyvben leírt módszer
 Lehet nehéz lesz elhinni, de igen sokan hangoztatják ezt a véleményt.
 
 > *"Ez a legfontosabb[^2] írás a pornófüggőséggel kapcsolatban"*
->[^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
 > --- valaki a Redditről
 
 > "*Tíz évig függő voltam. Ezen 10 év alatt depresszió, kételyek, meg szorongás gyötört, és rettegtem, hogy kiderül a titkom. Minden alkalom után gyűlöltem magam, és minden pornó-diéta után ismét lecsúsztam a lejtőn. Azonban ez a könyv segített leszokni. Korábban a pornó ellen mindig defenzívában voltam. Most hogy kétszer elolvastam, én vagyok offenzívában. A pornónak nincs már felettem hatalma, és az egész már csak egy szomorú viccnek érződik.*"
@@ -95,7 +94,6 @@ bár nem tudtam róla. , most büszkeség tölt el, hogy már nem kell függőne
 > --- u/Suspicious_Web_4594
 
 > "*Megalapozott[^3]*"
->[^3]:Itt eredetileg a “based” kifejezés szerepelt, ami nagyjából úgy fordítható le, hogy valami ami a trendekkel szembemenve az igazságot mondja.
 > --- anon, /fit/
 
 Allen Carr egy király csávó volt, rendkívül érdekes élettel: napjában száz szálat szívott el, több mint harminc éven át, de azonnal felhagyott vele, amint felfedezte a járható utat, ami a könyvéből idézve “*lehetővé tette hogy vágyát követve, minél több dohányosnak elmagyarázza a módszerét*”. Az alkoholról, egyéb drogokról, és mindenféle más függőségekről szóló könyvei a mai napig bestsellerek, ajánlom hogy nézd meg őket.
@@ -131,3 +129,6 @@ Hackauthor² és a Fordító
 
 Ez a könyv [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) licensz alatt áll. A kód  [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
 
+[^1]:“Hack-szerző” 
+[^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
+[^3]:Itt eredetileg a “based” kifejezés szerepelt, ami nagyjából úgy fordítható le, hogy valami ami a trendekkel szembemenve az igazságot mondja.
