@@ -10,7 +10,7 @@ A limbikus rendszernek van korrekciós rendszere, ami a dopamin és opioid recep
 
 Ahogy telik az idő, az agy nem csak a már látott videókat unja meg, hanem a hasonló “műfajokat”, és sokk-szintet. Ez az alacssony motiváció kevesebb elégedettséget generál, mivel az agyunk folyamatosan bírálja amit lát, és így affelé visz, hogy újabb videókat találj, hogy az éhségedet csillapítsa. Így újdonságok után nézel, olyan amatőr, és sokkoló videókra kattintva, amikről az első látogatásod során azt gondoltad, hogy sohasem kattintál rá.
 
-![The Coolidge Effect graphic](kepek/coolidge.png)
+![The Coolidge Effect graphic](translations/hu/kepek/coolidge.png)
 
 > *“Mert az apró örömök harmatában a szív megtalálja hajnalát, és felfrissül.”*
 >
