@@ -47,7 +47,7 @@ description: "Szabadulj meg a pornófüggőségtől azonnal, akaraterő, vagy á
 ***Szabadulj meg a pornófüggőségtől azonnal és fájdalommentesen, akaraterő, vagy áldozathozatal érzése nélkül.***
 
 
-Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!”* című könyv pornófüggőségre [átírt változatának](https://sites.google.com/site/hackbookeasypeasy) egy többszörösen átírt változata. A szöveg ezen felül **teljesen ingyenes** és [nyílt forráskódú](https://gitlab.com/jarhatout/easypeasy/-/tree/master/translations/hu). Egyik könyvnek se én vagyok a szerzője, én a Hackauthorš[^1] vagyok
+Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!”* című könyv pornófüggőségre [átírt változatának](https://sites.google.com/site/hackbookeasypeasy) egy többszörösen átírt változata. A szöveg ezen felül **teljesen ingyenes** és [nyílt forráskódú](https://gitlab.com/jarhatout/easypeasy/-/tree/master/translations/hu). Egyik könyvnek se én vagyok a szerzője, én a Hackauthorš[^1] vagyok. 
 
 Ez a könyv hatékony, de ahhoz hogy működjön is, feltétel hogy
 
@@ -126,6 +126,7 @@ Hackauthor² és a Fordító
 ![Creative Commons License Image](images/cc.png){width=88 height=31}
 
 Ez a könyv [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) licensz alatt áll. A kód [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
+
 
 [^1]:“Hack-szerző” 
 [^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
