@@ -1,4 +1,4 @@
---- 
+---
 title: "EasyPeasy"
 author: "Hackauthor²"
 date: "`r Sys.Date()`"
@@ -99,7 +99,7 @@ His body of work deals with dispelling fear caused by misconceptions and confusi
 
 Why the hackbook? Because Allen Carr has long since passed away and the institutions he's formed don't list internet pornography as one of the addictions they provide treatment for. I don't gain monetarily or otherwise.
 
-<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span> 
+<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span>
 
 Throughout this book, myself, the original Hackauthor, and Allen Carr will appear transparently in order to provide you with a unique and compelling method to easily and painlessly quit.
 
@@ -109,7 +109,7 @@ Throughout this book, myself, the original Hackauthor, and Allen Carr will appea
 
 A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (now actually working!! best possible contact method, use this pls) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
 
 Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 

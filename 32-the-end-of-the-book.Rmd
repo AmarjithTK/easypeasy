@@ -6,14 +6,14 @@ If this hackbook helped you, you can do a couple of things to help out:
 
 Improve the book.
 
-:   EasyPeasy is open source and written in R Markdown. If you notice an improvement, it's very easy to change and you can find a [video guide on how to do so here]() NOT DONE YET!! 
+:   EasyPeasy is open source and written in R Markdown. If you notice an improvement, it's very easy to change and you can find a [video guide on how to do so here]() NOT DONE YET!!
 
 Translate it!
 
 :   It is impossible to express my unbelievable gratitude that people are willing to translate this book and help free others. Here's a [comprehensive video guide on setting up RStudio and publishing a translation.]() NOT DONE YET!!
 
 Spread the word.
-:   While you've already been appealed to share this book, just wanted to mention to any zoomers reading that something cool might be discussing porn with your school and getting it added into the sex education curriculum. Instead of being a TikTok fortnite memelord AWPing doubledoors and watching Youtube for literal hours at a time, alongside chatting with people on Discord doing the same thing, you could actually do something. Get off the internet and see how you can change your world for the better, not being someone else's product. 
+:   While you've already been appealed to share this book, just wanted to mention to any zoomers reading that something cool might be discussing porn with your school and getting it added into the sex education curriculum. Instead of being a TikTok fortnite memelord AWPing doubledoors and watching Youtube for literal hours at a time, alongside chatting with people on Discord doing the same thing, you could actually do something. Get off the internet and see how you can change your world for the better, not being someone else's product.
 
     This is coming from a place of love. It's scary how much time I used to spend on the computer, and unfortunately, your parents are right that computer bad lmao. What if you spent that time differently? Learning skills, helping others, cultivating the self, etc. It's a shock to the system to begin with, but it's great. Start thinking what you could do with ya boys to start making a difference. Plant trees? Pick up rubbish? Learn any skill? Dunno, there's infinite things you could do and it's not my life. We're all gonna make it :o)
 
@@ -51,7 +51,7 @@ The pornographic hydra has grown beyond control. While societal response has bee
 
 Finally, here are the links from the start of the book in case you'd like to share your experiences.
 
-[coomer meme repository](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (now actually working!! best possible contact method, use this pls) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [feedback form](https://forms.gle/p7cTxowaNpKqgi5Z7)
 
 You can also find me on [YouTube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw), where your support is appreciated :o)
 
