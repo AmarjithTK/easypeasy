@@ -1,4 +1,4 @@
-image: rocker/hadleyverse
+image: rocker/verse
 
 .bookdown:
   stage: deploy
