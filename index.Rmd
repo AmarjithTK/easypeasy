@@ -36,7 +36,7 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 # Introduction
 
-!--[RU 🇷🇺](ru/index.html) -->
+<!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
