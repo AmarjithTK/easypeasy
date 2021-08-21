@@ -5,7 +5,7 @@ Hey mate, Hackauthor² again. Firstly, thank you so incredibly much for reading 
 message for you, thanks for finishing the book :o)
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/zNzZ1PfUDNk)")
+knitr::include_url("https://www.youtube.com/embed/zNzZ1PfUDNk")
 ```
 
 in case it doesn't embed (PDF), here's the linl: <https://youtu.be/zNzZ1PfUDNk>
@@ -35,7 +35,7 @@ Donate to the school letter writing campaign
 Here's a video explaining what's happening and [here's the letter that will be sent to as many schools as possible](https://easypeasymethod.org/resources/principal.pdf).
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4)")
+knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4")
 ```
 
 link if it doesn't embed (like in a pdf): <https://youtu.be/MqNQppcaFB4>
