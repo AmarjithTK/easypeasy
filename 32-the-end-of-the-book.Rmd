@@ -2,7 +2,13 @@
 
 Hey mate, Hackauthor² again. Firstly, thank you so incredibly much for reading this book. Freedom is incredible isn't it! The original Hackauthor's book changed my life, and it's been smooth sailing ever since. Would just like to reiterate how much of a top bloke Allen Carr is, who has helped countless others escape the addiction trap.
 
-![](https://youtu.be/zNzZ1PfUDNk){width="50%"}
+message for you, thanks for finishing the book :o)
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/zNzZ1PfUDNk)")
+```
+
+in case it doesn't embed: here's the linl: https://youtu.be/zNzZ1PfUDNk
 
 **hypercommunication** to try and beam point into your brain:
 
