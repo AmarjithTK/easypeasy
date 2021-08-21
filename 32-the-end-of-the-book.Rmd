@@ -8,7 +8,7 @@ message for you, thanks for finishing the book :o)
 knitr::include_url("https://www.youtube.com/embed/zNzZ1PfUDNk)")
 ```
 
-in case it doesn't embed: here's the linl: https://youtu.be/zNzZ1PfUDNk
+in case it doesn't embed (PDF), here's the linl: <https://youtu.be/zNzZ1PfUDNk>
 
 **hypercommunication** to try and beam point into your brain:
 
@@ -34,7 +34,11 @@ Donate to the school letter writing campaign
 
 Here's a video explaining what's happening and [here's the letter that will be sent to as many schools as possible](https://easypeasymethod.org/resources/principal.pdf).
 
-![](https://youtu.be/MqNQppcaFB4){width="50%"}
+```{r}
+knitr::include_url("https://www.youtube.com/embed/MqNQppcaFB4)")
+```
+
+link if it doesn't embed (like in a pdf): <https://youtu.be/MqNQppcaFB4>
 
 ***I must emphasise*** that I don't need or want your money. The following cryptocurrency addresses will be used to send letters to schools.
 
@@ -75,7 +79,7 @@ Social media (especially outage) and technology
 :   Social media is designed to resemble a slot machine. Constant bombardment of information reduces your ability to concentrate, handle stress and your mood. More insidiously, it places your self worth in arbitrary value systems. But more importantly, what emotion are you feeling when you’re reading this paragraph? Is it fear?
 :   Like every social media user, you’ve been lured into the most sinister, subtle trap that man and nature have combined to devise (the addiction trap). Reflect, did you ever make the conscious ‘positive’ decision that you needed social media, you needed it permanently in your life, feeling insecure, even panic stricken without it?
 :   Yeah, humans aren't built for endless novelty. It's chemically addictive, and there are infinitely better things to do with your time. Always keep in mind what can be accomplished through focusing your attention, campaign local issues you care about, such as sustainability, sex education and others. Never complain, be proactive and ask yourself how you'll influence the world around you. Remember, when has top down revolution ever worked? -- change starts with you.
-:   Read: *Smart Phone, Dumb Phone* by John Dicey (EasyWay), *Ten Arguments for Deleting Your Social Media Right Now* and [*Exiting Modernity*](https://meta-nomad.net/exiting-modernity by Meta-Nomad.
+:   Read: *Smart Phone, Dumb Phone* by John Dicey (EasyWay), *Ten Arguments for Deleting Your Social Media Right Now* and [*Exiting Modernity*](https://meta-nomad.net/exiting-modernity) by Meta-Nomad.
 
 ### Positve change
 
