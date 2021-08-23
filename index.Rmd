@@ -39,6 +39,11 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 <!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
+```{r}
+knitr::include_url("https://www.youtube.com/embed/Jiq3BB2QDFQ")
+```
+video link in case it doesn't embed (PDF): <https://youtu.be/Jiq3BB2QDFQ>
+
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
 This open source book will enable you to stop using pornography immediately, painlessly, and permanently without willpower or any sense of deprivation or sacrifice. It won't place any judgement, embarrassment, or pressure to undergo painful measures.
