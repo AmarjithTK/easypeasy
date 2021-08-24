@@ -39,10 +39,22 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 <!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
+------
+
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/Jiq3BB2QDFQ")
 ```
-video link in case it doesn't embed (PDF): <https://youtu.be/Jiq3BB2QDFQ>
+[video](https://youtu.be/Jiq3BB2QDFQ) summary: easypeasy works but funny written haha (am rewriting - see [my actual writing here](https://easypeasymethod.org/resources/principal.pdf)) // need your help on ***two projects*** PLEASE: <https://cafeculture.org> (worldwide sustainable cafes directory) // <https://preferences.org.au> - meme magic for Australian election (WILL HELP INTERNATIONAL PEOPLE TOO (publicising preferential voting worldwide fairer governments)
+
+Please, I could really use your help because Australia is stuck in a two party system for really no reason (because we have full run off preferential voting, so votes for a minor candidates are worth *much* more: central message is **vote 1 [any minor party]**
+- follow our socials (listed on the <https://preferences.org.au> website)
+- post stuff online about <https://preferences.org.au>
+- tune into our [twitch streams](https://twitch.tv/fraserpatterson) where we walk around Perth, Western Australia and ask people about [any minor party]
+- there's also highlights posted on my [youtube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw) as well.
+
+**this entire section usually isn't here** but this is really important to me so thank you for reading :o)
+
+------
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
