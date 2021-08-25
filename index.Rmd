@@ -51,6 +51,7 @@ knitr::include_url("https://www.youtube.com/embed/Jiq3BB2QDFQ")
 easypeasy works but funny written haha (am rewriting - see [my actual writing here](https://easypeasymethod.org/resources/principal.pdf))
 
 PLEASE PLEASE PLEASE I need ***your*** help on two projects PLEASE:
+
  * <https://cafeculture.org> (worldwide sustainable cafes directory, very shonkey but gets the job done
  * <https://preferences.org.au> - meme magic for Australian election (WILL HELP INTERNATIONAL PEOPLE TOO (publicising preferential voting worldwide creating fairer governments, and also Australia will not be fueling fossil fuels (please help us))
 
