@@ -43,17 +43,14 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
-```{r}
-knitr::include_url("https://www.youtube.com/embed/Jiq3BB2QDFQ")
-```
-[video](https://youtu.be/Jiq3BB2QDFQ) summary:
+small notes from me, cheers mate.
 
-easypeasy works but funny written haha (am rewriting - see [my actual writing here](https://easypeasymethod.org/resources/principal.pdf))
+Summarising, easypeasy genuinely works but is funnily written, haha, but I'm rewriting it and here's my [propoer prose](https://easypeasymethod.org/resources/principal.pdf)
 
 PLEASE PLEASE PLEASE I need ***your*** help on two projects PLEASE:
 
- * <https://cafeculture.org> (worldwide sustainable cafes directory, very shonkey but gets the job done
- * <https://preferences.org.au> - meme magic for Australian election (WILL HELP INTERNATIONAL PEOPLE TOO (publicising preferential voting worldwide creating fairer governments, and also Australia will not be fueling fossil fuels (please help us))
+ * <https://cafeculture.org> (*extremely* rough "but gets the job done and no time or interest learning webdev" and small cafe sustainability directory)
+ * <https://preferences.org.au> publicise objective facts about the preferential voting system (HELPING INTERNATIONAL PEOPLE TOO (publicising preferential voting worldwide creating fairer governments, and also Australia will be able to help the world (please help us) )
 
 Please, I beg for your help because Australia is stuck in a two party system for really no reason (because we have full run off preferential voting, so votes for a minor candidates are worth *much* more ('strategic voting' where you have to vote for one person over another *is impossible* because you have multiple votes easily): central message is **vote 1 [any minor party]**
 
