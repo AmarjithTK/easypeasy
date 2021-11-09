@@ -27,7 +27,7 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 url: 'https\://easypeasymethod.org/'
-cover-image: "images/easypeasy.jpg"
+cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
@@ -39,33 +39,43 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 <!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
-------
-
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
 
-small notes from me, cheers mate.
+------
 
-Summarising, easypeasy genuinely works but is funnily written, haha, but I'm rewriting it and here's my [propoer prose](https://easypeasymethod.org/resources/principal.pdf)
+<span style="font-size:large;">may I have your attention, a couple of temporary notes (until early 2022)</span>
 
-PLEASE PLEASE PLEASE I need ***your*** help on two projects PLEASE:
+Summarising book problems: easypeasy genuinely works but is funnily written aha xx. I'm rewriting it, and that's a project and a half, but here's my [proper prose](https://easypeasymethod.org/resources/principal.pdf).
 
- * <https://cafeculture.org> (*extremely* rough "but gets the job done and no time or interest learning webdev" and small cafe sustainability directory)
- * <https://preferences.org.au> publicise objective facts about the preferential voting system (HELPING INTERNATIONAL PEOPLE TOO (publicising preferential voting worldwide creating fairer governments, and also Australia will be able to help the world (please help us) )
+My name's Fraser, and I live in Australia. Between [supporting fossil fuels](https://www.abc.net.au/news/2021-10-22/greenpeace-australia-ipcc-pressure/100558890), mismangement of the [bushfire crisis](https://www.theguardian.com/australia-news/2020/jun/03/australian-bushfires-fois-shed-new-light-on-why-morrison-government-was-ill-prepared), and numerous [corruption scandals](https://en.wikipedia.org/wiki/List_of_political_controversies_in_Australia#Morrison_government), Australia rarely looks good.
 
-Please, I beg for your help because Australia is stuck in a two party system for really no reason (because we have full run off preferential voting, so votes for a minor candidates are worth *much* more ('strategic voting' where you have to vote for one person over another *is impossible* because you have multiple votes easily): central message is **vote 1 [any minor party]**
+I must be vary careful in phraising this objectively: Since Australia became a country, we've mostly had [only two parties in power](https://en.wikipedia.org/wiki/List_of_Australian_federal_elections). 
 
-* follow our socials (listed on the <https://preferences.org.au> website)
- + [discord](https://discord.gg/SvPaZYa9Dr)
- + [instagram](https://www.instagram.com/preferences.org.au/)
+Australia has a preferential voting system, meaning that people can rank choices. So, voting for someone that might not win makes your vote worth *heaps more*. However, most people vote [1] for the major parties, meaning that Australia is stuck in a two party system for really no reason.
+
+Changing this is easy, we're just ***using politically independent meme magic for objectively educating people about the voting system.***
+
+
+<span style="font-size:x-large;">link is: <https://voting.org.au></span> (website is getting majorly redone aha xx)
+
+***Very*** *minimal at the moment, but working on toolkits and stuff.* The best thing right now would be just blinding following our socials (aha xx).
+
+places for chatting:
+* [facebook group](https://facebook.com/groups/voting.org.au)
+* [discord](https://discord.gg/SvPaZYa9Dr)
+
+following our socials:
+ + [instagram](https://www.instagram.com/voting.org.au/)
  + [youtube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw)
- + [twitter](https://twitter.com/preferencesAU)
- + [facebook](https://www.facebook.com/preferences.org.au/)
- + [tiktok](https://www.tiktok.com/@preferences.org.au)
-* post stuff online about <https://preferences.org.au>
-* tune into our [twitch streams](https://twitch.tv/fraserpatterson) where we walk around Perth, Western Australia and ask people about [any minor party]
-* there's also highlights posted on my [youtube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw) as well.
+ + [twitter](https://twitter.com/votingeduAU)
+ + [facebook](https://www.facebook.com/voting.org.au/)
+ + [tiktok](https://www.tiktok.com/@voting.org.au)
+
+**What about if I'm international?** -- *mate we'd love ya helping!* Goal is shining a light on voting systems around the world.
 
 **this entire section usually isn't here** but this is really important to me so thank you very much for reading :o)
+
+-- Fraser
 
 ------
 
