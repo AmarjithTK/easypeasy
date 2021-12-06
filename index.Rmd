@@ -49,29 +49,18 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 Summarising book problems: easypeasy genuinely works but is funnily written aha xx. I'm rewriting it, and that's a project and a half, but here's my [proper prose](https://easypeasymethod.org/resources/principal.pdf).
 
-My name's Fraser, and I live in Australia. Between [supporting fossil fuels](https://www.abc.net.au/news/2021-10-22/greenpeace-australia-ipcc-pressure/100558890), mismangement of the [bushfire crisis](https://www.theguardian.com/australia-news/2020/jun/03/australian-bushfires-fois-shed-new-light-on-why-morrison-government-was-ill-prepared), and numerous [corruption scandals](https://en.wikipedia.org/wiki/List_of_political_controversies_in_Australia#Morrison_government), Australia rarely looks good.
+I'm Fraser, and I live in Australia. Our government [continues supporting fossil fuels](https://www.abc.net.au/news/2021-10-22/greenpeace-australia-ipcc-pressure/100558890), [mismanages bushfires](https://www.theguardian.com/australia-news/2020/jun/03/australian-bushfires-fois-shed-new-light-on-why-morrison-government-was-ill-prepared), all allongside [many corruption scandals](https://en.wikipedia.org/wiki/List_of_political_controversies_in_Australia#Morrison_government).
 
-I must be vary careful in phraising this objectively: Since Australia became a country, we've mostly had [only two parties in power](https://en.wikipedia.org/wiki/List_of_Australian_federal_elections). 
 
-Australia has a preferential voting system, meaning that people can rank choices. So, voting for someone that might not win makes your vote worth *heaps more*. However, most people vote [1] for the major parties, meaning that Australia is stuck in a two party system for really no reason.
+Since Australia became a country, we've mostly had [only two parties in power](https://en.wikipedia.org/wiki/List_of_Australian_federal_elections). . Since Australia's voting system is preferential, voting for smaller parties (who might not win) gives you heaps more votes. 
 
-Changing this is easy, we're just ***using politically independent meme magic for objectively educating people about the voting system.***
-
+However, most people vote [1] for the major parties, meaning that Australia is stuck in a two party system for really no reason.
 
 <span style="font-size:x-large;">link is: <https://voting.org.au></span> (website is getting majorly redone aha xx)
 
 ***Very*** *minimal at the moment, but working on toolkits and stuff.* The best thing right now would be just blinding following our socials (aha xx).
 
-places for chatting:
-* [facebook group](https://facebook.com/groups/voting.org.au)
-* [discord](https://discord.gg/SvPaZYa9Dr)
-
-following our socials:
- + [instagram](https://www.instagram.com/voting.org.au/)
- + [youtube](https://www.youtube.com/channel/UChMZhvS7eV-WoLDu_mRjEEw)
- + [twitter](https://twitter.com/votingeduAU)
- + [facebook](https://www.facebook.com/voting.org.au/)
- + [tiktok](https://www.tiktok.com/@voting.org.au)
+knitr::include_url("https://docs.google.com/forms/d/e/1FAIpQLSdcGuEWxy02Ue59GDiKzkkND8wR_U7dieLINb5oo5WGDH3JpA/viewform?embedded=true")
 
 **What about if I'm international?** -- *mate we'd love ya helping!* Goal is shining a light on voting systems around the world.
 
