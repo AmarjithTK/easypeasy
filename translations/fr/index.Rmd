@@ -1,0 +1,113 @@
+--- 
+title: "EasyPeasy"
+author: "Hackauteur Anonyme²"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+      edit : https://gitlab.com/snuggy/easypeasy/%s
+    includes:
+      in_header: header.html
+  pdf_document:
+    includes:
+      in_header: preamble.tex  
+
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'https\://easypeasybook.org/'
+cover-image: "images/easypeasy.jpg"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
+description: "Quittez la pornographie immediatement, sans volonté, sentiment de privation, ou sacrifice."
+---
+
+# Préface {-}
+
+<img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
+
+<!---[FR 🇫🇷](fr/index.html) --->
+
+<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+
+Ceci est une version réécrite d'un livre [réécrit](https://sites.google.com/site/hackbookeasypeasy) adaptant *La méthode simple pour en finir avec la cigarette d'Allen Carr* pour la pornographie. Il est aussi **complétement gratuit** et [open source](https://gitlab.com/snuggy/easypeasy). Je ne suis pas l'auteur d'un de ces deux livres, je suis le Hackauteur Anonyme².
+
+C'est une méthode très efficace, mais il est essentiel de suivre cette indication :
+
+<span style="font-size:larger;">**NE SAUTEZ AUCUN CHAPITRE**</span>
+
+Quand on dévérouille une serrure à code, il faut entrer les nombres dans le bon ordre. C'est pareil pour l'addiction.
+
+Personellement, la [version Google Sites originale](https://sites.google.com/site/hackbookeasypeasy) (qui n'a pas été écrite par moi) a changé ma vie. Si vous êtes comme la plupart, vous avez découvert la pornographie relativement jeune et vous l'avez utilisée depuis. Jusqu'à les écrasants -- mais quand même assez censurés -- avertissements sur les dangers. Tout comme moi, vous avez peut-être eu des périodes de succès éphémères, mais en succombant toujours à la fin aux envies illusoires. Je suis ravi d'annoncer que cette méthode marche complétement différement, et que c'est aussi la seule qui a fonctionné.
+
+Ou peut-être, vous êtes ici parce que un proche ou un ami concerné vous à envoyé ce livre, et que vous êtes sceptique. Premièrement, merci d'avoir au moins pris le temps de le regarder. Nous en parlerons plus très bientôt, mais essayez de vous rappeler briévement la première fois que vous avez consulté de la pornographie. Est-ce que vous vous attendiez à y retourner pour le restant de votre vie ? Selon mes recherches informelles sur le sujet (harceler mes amis pour qu'ils lisent le livre), EasyPeasy est tout aussi efficace pour l'utilsateur occasionnel de pornographie que pour le grand utilsateur. Il n'est pas horriblement long, avec de hautes chances de gains, donc je vous prie de bien vouloir continuer à lire.
+
+a méthode décrite dans ce hackbook :
+
+-   Est instantanée.
+
+-   Est tout aussi efficace pour l'utilisateur occasionnel que régulier.
+
+-   Ne cause aucun symptôme de retrait grave.
+
+-   Ne demande aucune volontée.
+
+-   Ne demande pas de traitement de choc, d'aides, ou de sortilèges.
+
+-   Ne va pas vous faire remplacer cette addiction par une autre, comme la consommation d'alcool, de tabac, etc. 
+
+-   Est permanante.
+
+Vous trouvez sûrement ça impossible, mais ces sentiments sont partagés par beaucoup.
+
+> *"Il s'agit d'un travail fondamental sur la dépendance au porno"*
+>
+> --- un gars sur reddit que je n'arrive plus à retrouver
+
+> "*Ce livre est de l'or. C'est incroyable que je puisse accéder à ce contenu gratuitement, ce simple livre avec moins de 100 pages. C'est aussi incroyable de voir combien d'argent j'ai dépensé sur des cours et combien de temps j'ai gaspillé à naviguer sur /nofap, avec 0 résultats au final*"
+>
+> --- u/OyaPunpun (bon manga btw)
+
+> "*J'ai été addict pendant 10 ans. Ces 10 ans j'ai été torturé par la dépression, le doute, l'anxiété, et la peur que mon secret ne se sache. Après chaque session, je me détestais, et après chaque "régime porno", j'étais reparti pour un autre tour dans le toboggan. Cependant, ce livre m'a aidé à arrêter. J'étais toujours sur la défensive concernant le porno auparavant. Maintenant, après avoir lu ce livre deux fois, je suis sur l'offensive. Le porno n'a aucun contrôle sur moi et paraît comme une triste blague maintenant.*"
+>
+> --- u/DeepNewt
+
+> "*based*" (ce mot veut dire qu'une chose est bien dite)
+>
+> --- anon, /fit/
+
+Allen Carr est une personne incroyable dont la vie est extrêmement intéressante : fumeur à la chaîne à raison de cent par jour pendant plus de trente ans, Carr a arrêté immédiatement après avoir découvert *EasyWay*, ce qui, comme le dit son livre, *"lui a permis de suivre un désir ardant d'expliquer sa méthode au plus grand nombre de fumeurs possible"*. Ses méthodes pour l'alcool, les autres drogues, et de nombreuses autres addictions sont des best-sellers mondiaux et je vous encourage à les consulter.
+
+L'idée de son livre est de dissiper la peur causée par les idées fausses et la confusion concernant les processus biologiques et l'abandon de la cigarette. La majorité du livre est donc consacrée à la déconstruction logique des angoisses et des phobies liées à l'abandon du tabac, qui conduisent généralement à la chute inévitable de ceux qui tentent, puis finissent par échouer. Les cliniques de Carr ont des taux de réussite dépassant les 95%, avec une politique de satisfait ou remboursé. Plus important encore, elles ont permis à leurs patients de vivre une vie épanouie, sans dépendance.
+
+Pourquoi ce hackbook? Parce que Allen Carr est depuis bien longtemps décédé et que les institutions qu'il a formé ne listent pas la pornographie sur Internet comme l'une des addictions qu'ils prennent en charge. Je n'y gagne pas d'argent ou autre chose.
+
+<span style="font-size:smaller;">**Hackbook:** Un livre basé et hacké sur un autre livre. L'auteur original est pleinement crédité. </span>  
+
+Au travers la lecture de ce livre, moi-même, l'Hackauteur Anonyme original, et Allen Carr vont apparaître de manière transparente afin de vous fournir une méthode unique et convaincante pour vous permettre de quitter facilement et sans douleur.
+
+<span style="font-size:larger;">**Astuces pour la lecture :**</span>
+
+**Ne lisez pas ce livre comme un livre normal.**, il est très court, et vous devriez pouvoir le finir en quelques heures. Beaucoup de gens gagneront à *surligner ou prendre des notes*, et nous recommandons de le **relire** quelques fois afin de pleinement solidifier les leçons.
+
+De nombreuses communautés (anglophones hélas) existent pour ce hackbook, mais il est recommandé de les regarder seulement après avoir fini le livre.
+
+
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [public analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+
+Petit rappel:
+
+<span style="font-size:larger;">**NE SAUTEZ AUCUN CHAPITRE**</span>
+
+Je vous souhaite bonne chance, mais comme vous allez le voir, vous n'en avez pas besoin.
+
+Bon courage,
+
+Hackauthor Anonyme²

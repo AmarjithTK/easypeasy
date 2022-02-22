@@ -38,6 +38,7 @@ vignettes/*.pdf
 *.pdf
 *.csv
 *.html
+*.ignore
 _book
 
 # I'm not sure if this part works yet
