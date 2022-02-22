@@ -1,0 +1,133 @@
+--- 
+title: "A Járható Út"
+author: "Hackauthor²"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output:
+  bookdown::gitbook:
+    config:
+      fontsettings:
+        theme: night
+        family: sans
+        size: 2
+      edit : https://gitlab.com/snuggy/easypeasy/%s
+    includes:
+      in_header: header.html
+    fig_caption: false
+  pdf_document:
+    includes:
+      in_header: preamble.tex
+      toc: true
+      number_sections: true
+      fig_caption: false
+      latex_engine: xelatex
+
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+url: 'https\://easypeasymethod.org/'
+cover-image: "images/easypeasy.jpg"
+apple-touch-icon: "touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "favicon.ico"
+description: "Szabadulj meg a pornófüggőségtől azonnal, akaraterő, vagy áldozathozatal érzése nélkül."
+
+---
+
+# Preface {-}
+
+![Cover Image](translations/hu/kepek/easypeasy.png){width=45% height=45%}
+
+<!--[RU 🇷🇺](ru/index.html) -->
+[Az eredeti könyv audió formátumban](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
+
+<span style="font-size:xx-large;">**NE UGORJ ÁT EGY FEJEZETET SE!**</span>
+
+***Szabadulj meg a pornófüggőségtől azonnal és fájdalommentesen, akaraterő, vagy áldozathozatal érzése nélkül.***
+
+
+Ez a szöveg az *Allen Carr-féle “Leszokni a dohányzásról? Így könnyű!”* című könyv pornófüggőségre [átírt változatának](https://sites.google.com/site/hackbookeasypeasy) egy többszörösen átírt változata. A szöveg ezen felül **teljesen ingyenes** és [nyílt forráskódú](https://gitlab.com/jarhatout/easypeasy/-/tree/master/translations/hu). Egyik könyvnek se én vagyok a szerzője, én a Hackauthorš[^1] vagyok. 
+
+Ez a könyv hatékony, de ahhoz hogy működjön is, feltétel hogy
+
+<span style="font-size:xx-large;">**NE UGORJ ÁT EGY FEJEZETET SE!**</span>
+
+Egy számzáras lakat csak úgy nyitható ki, ha a számok a megfelelő sorrendben vannak. A függőség is ugyanilyen.
+
+Személy szerint, az [eredeti Google Site-os verzió](https://sites.google.com/site/hackbookeasypeasy) (melyet nem én írtam) megváltoztatta az életemet. A legtöbb emberhez hasonlóan te is egészen fiatal korodban találkoztál először a pornóval, és azóta is használod/használtad. Egészen addig, amíg nem futottál bele a lehengerlő mennyiségű, de valahogy mégis cenzúrázott írásba, amely a veszélyeire figyelmeztet. Hozzám hasonlóan te is valószínűleg sikerrel végigvittél pár napos szériákat, amíg tartózkodtál, de előbb-utóbb mindig beadtad a derekad a képzelt ingereknek. Örömmel jelentem, hogy ez a módszer teljesen máshogy működik, és ez az egyetlen módszer, ami valaha is működött.
+
+Az is előfordulhat, hogy valaki aggodalomból irányított át ide, és emiatt szkeptikus vagy. Először is, köszönöm hogy legalább beleolvastál a könyvbe. Ez később bővebben is ki lesz fejtve, de kérlek idézd fel az első alkalmat, amikor pornográf tartalmat néztél. Arra számítottál akkor, hogy az életed végéig vissza fogsz rá térni? A személyes, nem hivatalos kutatásaim alapján (addig rágtam a barátaim fülét, amíg el nem olvasták a könyvet), a Járható Út a súlyos és az alkalmi pornó használónak is ugyanolyan hatékony. A könyv nem borzalmasan hosszú, és hatalmas eséllyel nyerhetsz hatalmasat, tehát kérlek olvass tovább. 
+
+Az ebben a hack-könyvben leírt módszer
+
+-   Azonnal hat.
+
+-   Mind a súlyos, mind az alkalmi használóknak ugyanolyan hatékony.
+
+-   Nem okoz elvonási kattogást.
+
+-   Nem igényel akaraterőt.
+
+-   Nem igényel sokkterápiát, kisegítő megoldásokat.
+
+-   Nem helyettesíti ezt a függőséget más függőségekkel.
+
+-   Végleges.
+  
+Lehet nehéz lesz elhinni, de igen sokan hangoztatják ezt a véleményt.
+
+> *"Ez a legfontosabb[^2] írás a pornófüggőséggel kapcsolatban"*
+> --- valaki a Redditről
+
+> "*Tíz évig függő voltam. Ezen 10 év alatt depresszió, kételyek, meg szorongás gyötört, és rettegtem, hogy kiderül a titkom. Minden alkalom után gyűlöltem magam, és minden pornó-diéta után ismét lecsúsztam a lejtőn. Azonban ez a könyv segített leszokni. Korábban a pornó ellen mindig defenzívában voltam. Most hogy kétszer elolvastam, én vagyok offenzívában. A pornónak nincs már felettem hatalma, és az egész már csak egy szomorú viccnek érződik.*"
+>
+> --- u/DeepNewt
+
+> "*Pár napja töltöttem be a huszadik évemet. Sok éve először a pornócsapdán kívül töltöttem a születésnapomat, ami ennek a könyvnek köszönhető, amibe oár hónapja véletlenül futottam bele. Azelőtt rengeteg időt töltöttem azzal hogy a hagyományos módszerekkel próbáltam leszokni, és hatalmas belső válságot éltem meg, és örök függőnek bélyegeztem meg magam. A könyv mindezt megoldotta. Ahol korábban féltem attól, hogy nincs önuralmam, még akkkor is hogyha addigra már legyőztem a kicsi szörnyet, bár nem tudtam róla, most büszkeség tölt el, hogy már nem kell függőnek lennem.*
+
+>*Nincs különösebb okom arra, hogy ezt posztoljam, csak úgy érzetem hogy ezt valahová le kellet írnom az agyamon kívül, mert ez nekem nagyon sokat jelent. Ha ezt olvasod, és azon gondolkodsz, hogy elolvasod vagy ajánlod ezt a könyvet, nekem elhiheted hogy ez a módszer minden másnál jobban működik. A legjobb tippem az, hogy jegyzetelj, ami hülyén hangzik, de nekem segített megszilárdítani bizonyos gondolatokat.*"
+>
+> --- u/Suspicious_Web_4594
+
+> "*Megalapozott[^3]*"
+>
+> --- anon, /fit/
+
+Allen Carr egy király csávó volt, rendkívül érdekes élettel: napjában száz szálat szívott el, több mint harminc éven át, de azonnal felhagyott vele, amint felfedezte a járható utat, ami a könyvéből idézve “*lehetővé tette hogy vágyát követve, minél több dohányosnak elmagyarázza a módszerét*”. Az alkoholról, egyéb drogokról, és mindenféle más függőségekről szóló könyvei a mai napig bestsellerek, ajánlom hogy nézd meg őket.
+
+Allen a könyveiben a leszokással, és a biológiai folyamatokkal kapcsolatos félelmet és zavarodottságot szünteti meg, ezért a könyv nagy része a leszokással asszociált félelmek logikus lebontásából fog állni, mely félelmek a leállási próbálkozások sikertelenségében végződnek. A Carr-féle klinikák több mint 95 százalékos sikerességi aránnyal működnek, pénzvisszafizetési garanciával. Ami még fontosabb, felszabadították a pácienseket a függőségük kínzó igájából.
+
+Minek a hack-könyv? Mert Allen Carr már sok ideje elhunyt, és az általa alapított intézmények nem sorolják fel az internetes pornót az általuk kezelt függőségek listáján. A könyvből semmiféle anyagi nyereségem nem származik.
+
+<span style="font-size:smaller;">**Hack-könyv:** Egy meglévő könyv átírt, és úgymond meghackelt verziója. Az eredeti szerző fel van tüntetve.</span> 
+
+A Hack-könyv során végig Allen Carr és jómagam könnyen felismerhető módon fogunk megjelenni, hogy egy hihető és egyedi módszerrel segítsünk a függőségtől megszabadulni.
+
+<span style="font-size:larger;">**Tippek az olvasáshoz:**</span>
+
+**Ne úgy olvasd ezt a könyvet, mint egy normális könyvet**. Ez a könyv elég kurta, és néhány óra alatt könnyen befejezhető. Sokaknak segít ha *kiemelnek fontos részeket*, és ha *jegyzetelnek*, és mindemellett ajánlatos *többször elolvasni*, hogy az üzenet biztosan átjöjjön.
+
+Számos közösség létezik a könyvvel kapcsolatban, de csak érdemes megnézni őket, ha már elolvastad a könyvet.
+[Magyar nyelvű discord szerver:](https://discord.gg/D54n6E4A7D)
+[Magyar nyelvű NoFap ‘leányvállalat’](https://www.reddit.com/r/hunnofap/)  
+
+A többi pedig angol nyelvű.
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (új!)](https://coomer.org) | [oldal statisztikák](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+
+Emlékeztető: <span style="font-size:larger;">**NE UGORJ ÁT EGY FEJEZETET SE! **</span>
+
+Sok szerencsét kívánnék, de hamarosan meg fogod tudni, hogy nincs is rá szükséged.
+
+Hajrá!
+
+Hackauthor² és a Fordító
+
+![Creative Commons License Image](images/cc.png){width=88 height=31}
+
+Ez a könyv [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) licensz alatt áll. A kód [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
+
+
+[^1]:“Hack-szerző” 
+[^2]: Itt eredetileg szerepelt egy lefordíthatatlan szóvicc szerepelt.
+[^3]:Itt eredetileg a “based” kifejezés szerepelt, ami nagyjából úgy fordítható le, hogy valami ami a trendekkel szembemenve az igazságot mondja.
