@@ -38,7 +38,8 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
-<!--[RU 🇷🇺](ru/index.html) -->
+[French 🇫🇷](fr/index.html)[Hungarian 🇭🇺](hu/index.html)
+
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
