@@ -45,22 +45,23 @@ description: "Painlessly quit pornography immediately, without willpower or any 
 
 ------
 
-<span style="font-size:large;">may I have your attention, a couple of temporary notes (until early 2022)</span>
+<span style="font-size:large;">please read this</span>
 
-Summarising book problems: easypeasy genuinely works but is funnily written aha xx. I'm rewriting it, and that's a project and a half, but here's my [proper prose](https://easypeasymethod.org/resources/principal.pdf).
+rewriting book, don't stress about it. this version of easypeasy works extremely well though.
 
-I'm Fraser, and I live in Australia. Our government [continues supporting fossil fuels](https://www.abc.net.au/news/2021-10-22/greenpeace-australia-ipcc-pressure/100558890), [mismanages bushfires](https://www.theguardian.com/australia-news/2020/jun/03/australian-bushfires-fois-shed-new-light-on-why-morrison-government-was-ill-prepared), all allongside [many corruption scandals](https://en.wikipedia.org/wiki/List_of_political_controversies_in_Australia#Morrison_government).
+I need your (anyone, from anywhere, with any voting status) for helping with meme magic for the Australian election.
 
+our voting system is fair and means we can escape a two party system if everyone understands how it works and doesn't vote 1st preference for the major parties.
 
-Since Australia became a country, we've mostly had [only two parties in power](https://en.wikipedia.org/wiki/List_of_Australian_federal_elections). . Since Australia's voting system is preferential, voting for smaller parties (who might not win) gives you heaps more votes. 
+I reckon this will start a conversation about fair voting systems around the world.
 
-However, most people vote [1] for the major parties, meaning that Australia is stuck in a two party system for really no reason.
+you can help by:
+- sharing the message online (discord, reddit)
+- making memes and content with #votingAU #auspol so more people see it
 
-<span style="font-size:x-large;">link is: <https://voting.org.au></span> (website is getting majorly redone aha xx)
+it'll only takes a small amount of time and it'll set the world on a good path :o)
 
-***Very*** *minimal at the moment, but working on toolkits and stuff.* The best thing right now would be just blinding following our socials (aha xx).
-
-knitr::include_url("https://docs.google.com/forms/d/e/1FAIpQLSdcGuEWxy02Ue59GDiKzkkND8wR_U7dieLINb5oo5WGDH3JpA/viewform?embedded=true")
+<span style="font-size:x-large;">link is: <https://voting.org.au/hey></span
 
 **What about if I'm international?** -- *mate we'd love ya helping!* Goal is shining a light on voting systems around the world.
 

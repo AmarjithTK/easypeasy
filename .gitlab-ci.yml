@@ -3,7 +3,6 @@ image: rocker/verse
 .bookdown:
   stage: deploy
   script:
-    - tlmgr install amsmath
     - sh ./build.sh
     - mv _book public
   artifacts:
