@@ -1,14 +1,20 @@
 # Build English version
-Rscript -e "bookdown::render_book('index.Rmd', 'all')"
+Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
 
-# French Version
-mkdir -p _book/fr
-cd translations/fr/
-Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-cp -r _book/* ../../_book/fr/
+# Build German version
+mkdir -p _book/de
+cd translations/de/
+Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+cp -r _book/* ../../_book/de/
 
-# Hugarian Version
-mkdir -p _book/hu
-cd translations/hu/
-Rscript -e "bookdown::render_book('index.Rmd', 'all')"
-cp -r _book/* ../../_book/hu/
+# # French Version
+# mkdir -p _book/fr
+# cd translations/fr/
+# Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+# cp -r _book/* ../../_book/fr/
+
+# # Hugarian Version
+# mkdir -p _book/hu
+# cd translations/hu/
+# Rscript -e "bookdown::render_book('index.Rmd', 'bookdown::gitbook')"
+# cp -r _book/* ../../_book/hu/
