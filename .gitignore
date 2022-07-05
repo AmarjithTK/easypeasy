@@ -37,7 +37,7 @@ vignettes/*.pdf
 *.Rda
 *.pdf
 *.csv
-*.html
+_book/*.html
 *.ignore
 _book
 
