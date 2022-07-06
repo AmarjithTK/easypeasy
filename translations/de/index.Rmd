@@ -1,7 +1,8 @@
 ---
 title: "EasyPeasy"
-author: "Hackauthor²"
-date: "`r Sys.Date()`"
+author: "[Englisch (original)](../index.html) durch Hackauthor² <br/> übersetzt ins <br/>
+Deutsche durch Tim Budweg"
+date: "Veröffentlichung: 06.07.2022<br/>aktuelle Version vom [YYYY-MM-DD]: `r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
   bookdown::gitbook:
@@ -31,17 +32,16 @@ cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
-description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
+description: "Hör sofort und schmerzlos mit der Pornografie auf, ohne Willenskraft oder das Gefühl, etwas entbehren oder opfern zu müssen."
 ---
 
 # Einleitung
 
-![Cover Image](images/easypeasy.jpg){width=45% height=45%}
+![Deckblatt](images/easypeasy.jpg){width=45% height=45%}
 
-<!--[RU 🇷🇺](ru/index.html) -->
-[Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
+[Audiobook (Englisch)](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
-<span style="font-size:xx-large;">ÜBERSPRING KEINE KAPITEL</span>
+<span style="font-size:xx-large;">ÜBERSPRINGE KEINE KAPITEL</span>
 
 Dieses Open-Source-Buch wird dich in die Lage versetzen, sofort, schmerzlos und dauerhaft mit der Pornografie aufzuhören, ohne Willenskraft und ohne das Gefühl von Entbehrungen oder Opfern. Es wird dich nicht verurteilen, beschämen oder unter Druck setzen, schmerzhafte Maßnahmen zu ergreifen.
 
@@ -73,9 +73,9 @@ Wenn du sie aber nicht überreden kannst, lies das Buch selbst. Wenn du die Meth
 
 ## Über das Buch {-}
 
-Dieses Buch ist eine umgeschriebene Version von *Allen Carr's EasyWay to Smoking* für Pornografie, es ist frei und Open Source und unter CC-BY-SA lizenziert. Sein Erfolg beruht auf der Grundlage, dass du:
+Dieses Buch ist eine umgeschriebene Version von *Allen Carr's EasyWay to Smoking* für Pornografie, es ist frei und Open Source und unter CC-BY-SA lizenziert. Sein Erfolg beruht auf folgender Grundlage:
 
-<span style="font-size:xx-large;">DIE KAPITEL NICHT ÜBERSPRINGST</span>
+<span style="font-size:xx-large;">ÜBERSPRINGE KEINE KAPITEL</span>
 
 Wenn du ein Zahlenschloss öffnen willst, musst du die Zahlen in der richtigen Reihenfolge eingeben. Bei der Sucht ist das nicht anders.
 
@@ -137,7 +137,7 @@ Gleichzeitig wollen alle Nutzer weiter konsumieren. Schließlich zwingt uns niem
 
 Wenn es einen magischen Knopf gäbe, mit dem man am nächsten Morgen aufwachen könnte, als hätte man nie seine erste Tube-Site besucht, wären die einzigen Süchtigen von morgen junge Menschen, die noch "experimentieren".
 
-Das Einzige, was uns davon abhält, aufzuhören, sind **Ängste!** Angst, die durch den Glauben verursacht wird, dass wir eine unbestimmte Zeit des Elends, der Entbehrung und des unbefriedigten Verlangens überleben müssen, um von Pornos frei zu sein. Diese entstehen durch irrationale Überzeugungen, die wir gelernt oder erworben haben, wie zum Beispiel:
+Das Einzige, was uns davon abhält, aufzuhören, ist **ANGST!** Angst, die durch den Glauben verursacht wird, dass wir eine unbestimmte Zeit des Elends, der Entbehrung und des unbefriedigten Verlangens überleben müssen, um von Pornos frei zu sein. Diese entstehen durch irrationale Überzeugungen, die wir gelernt oder erworben haben, wie zum Beispiel:
 
 - Selbstbefriedigung oder Sex, der zum Orgasmus führt, ist die *einzige* und *wichtigste* Sache im Leben.
 
@@ -215,8 +215,6 @@ Es gibt auch eine Reihe von Communities für das Hackbook, aber ich würde dir e
 Kurze Erinnerung: <span style="font-size:larger;">**ÜBERSPRINGE KEINE KAPITEL**</span>
 
 Ich würde dir Glück wünschen, aber wie du bald merken wirst, brauchst du es nicht.
-
-*Übersetzt ins Deutsche von Tim Budweg*
 
 Gute Vibes,
 
