@@ -32,17 +32,16 @@ cover-image: "images/easypeasy.png"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
-description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
+description: "Hör sofort und schmerzlos mit der Pornografie auf, ohne Willenskraft oder das Gefühl, etwas entbehren oder opfern zu müssen."
 ---
 
 # Einleitung
 
-![Cover Image](images/easypeasy.jpg){width=45% height=45%}
+![Deckblatt](images/easypeasy.jpg){width=45% height=45%}
 
-<!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook (Englisch)](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
-<span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
+<span style="font-size:xx-large;">ÜBERSPRINGE KEINE KAPITEL</span>
 
 Dieses Open-Source-Buch wird dich in die Lage versetzen, sofort, schmerzlos und dauerhaft mit der Pornografie aufzuhören, ohne Willenskraft und ohne das Gefühl von Entbehrungen oder Opfern. Es wird dich nicht verurteilen, beschämen oder unter Druck setzen, schmerzhafte Maßnahmen zu ergreifen.
 
@@ -219,7 +218,7 @@ Ich würde dir Glück wünschen, aber wie du bald merken wirst, brauchst du es n
 
 Gute Vibes,
 
-Hackauthor²
+Hackauthor² und Tim Budweg
 
 ![Creative Commons License Image](images/cc.png){width=88 height=31}
 

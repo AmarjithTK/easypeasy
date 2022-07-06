@@ -1,6 +1,6 @@
 ---
 title: "EasyPeasy"
-author: "Hackauthor² <br/> translated to <br/>
+author: "English (original) Hackauthor² <br/> translated to <br/>
 [German](de/index.html) by Tim Budweg"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
@@ -35,11 +35,21 @@ favicon: "favicon.ico"
 description: "Painlessly quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
 ---
 
+
 # Introduction
+
+<h3>Note</h3>
+
+EasyPeasy is available in more and more languages. If you want to help, contact us. 
+
+Do you prefer reading in another language?
+
+- zur [deutschen Version](de/index.html)
+
+
 
 ![Cover Image](images/easypeasy.jpg){width=45% height=45%}
 
-<!--[RU 🇷🇺](ru/index.html) -->
 [Audiobook](https://www.youtube.com/watch?v=ZktxO6adTnI) <span style="font-size:small;">([MP3 ](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd))</span>
 
 <span style="font-size:xx-large;">DO NOT JUMP CHAPTERS</span>
